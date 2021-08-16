@@ -9,7 +9,7 @@ Its in-game ID is `enva:water_glass_bowl`
 ---
 ## Obtaining
 
-To get the fish bowl, right click while looking on water with the water fish bowl.
+To get the fish bowl, right click while looking on water while holding a fish bowl.
 
 ## Mechanics
 
@@ -24,7 +24,7 @@ To get the fish bowl, right click while looking on water with the water fish bow
 1. Players can't stack fish bowls or water fish bowls in their inventory.
 2. While equipped, the water glass bowls prevent you from putting any type of helmet on.
 3. The water fish bowl has 5 durability, since glass is very fragile.
-4. If the water fish bowl is taken off in the nether and you have no spares, good luck finding a water source.
+4. If the water fish bowl is broken in the nether and you have no spares, good luck finding a water source.
 
 ## Related
 

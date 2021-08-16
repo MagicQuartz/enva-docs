@@ -9,7 +9,7 @@ Its in-game ID is `enva:glass_bowl`
 ---
 ## Obtaining - Crafting
 
-To craft the fish bowl, go to the [EnvironmentalArmor Discord server](https://discord.gg/MzKD2yq8N8) and type the command `e!recipe glass_bowl` in the bot commands channel.
+To craft the fish bowl, go to the [EnvironmentalArmor Discord server](https://discord.gg/MzKD2yq8N8) and type the command `e!recipe glass_bowl` in the bot commands channel after verifying.
 
 ## Mechanics
 
