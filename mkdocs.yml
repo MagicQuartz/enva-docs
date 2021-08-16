@@ -1,0 +1,7 @@
+site_name: EnvironmentalArmor Documentation
+nav:
+    - Home: index.md
+    - Items:
+        - Fish Bowl: items/fish_bowl.md
+theme: readthedocs
+separator: '_'
