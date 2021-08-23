@@ -4,12 +4,12 @@ date: 2021-06-16
 ---
 # Titanium Coated Water Fish Bowl
 
-The water fish bowl is an item which is supposed to help Merlings to breathe on land.
+The titanium coated water fish bowl is an item which is supposed to help Merlings to breathe on land.
 Its in-game ID is `enva:titanium_coated_water_glass_bowl`
 ---
 ## Obtaining
 
-To get the titanium coated fish bowl, right click while looking on water while holding a titanium coated fish bowl.
+To get the titanium coated water fish bowl, right click while looking on water while holding a titanium coated fish bowl.
 
 ## Mechanics
 
@@ -22,8 +22,8 @@ To get the titanium coated fish bowl, right click while looking on water while h
 (Downsides are shared with the [Titanium Coated Fish Bowl](items/titanium_coated_fish_bowl.md))
 
 1. Players can't stack titanium coated fish bowls or titanium coated water fish bowls in their inventory.
-2. While equipped, the titanium coated water glass bowls prevent you from putting any type of helmet on.
-4. If the titanium coated water fish bowl is broken in the nether and you have no spares, good luck finding a water source.
+2. While equipped, the titanium coated water fish bowls prevent you from putting any type of helmet on.
+3. If the titanium coated water fish bowl is broken in the nether and you have no spares, good luck finding a water source.
 
 ## Related
 

@@ -15,7 +15,7 @@ To craft the fish bowl, go to the [EnvironmentalArmor Discord server](https://di
 
 * If a player right clicks while looking at water with the fish bowl in its hand, the fish bowl will turn into a water fish bowl, which means it is equippable.
 * Once in The End, the player can mine and smelt titanium ore into titanium ingots, and upgrade the fish bowl into a titanium coated fish bowl. This doesn't work on water fish bowls.
-* The fish bowl has a counterpart for non-Merlings, which is the Glass Helmet.
+* The fish bowl has a counterpart for non-Merlings, which is the glass helmet.
 
 ## Downsides?
 

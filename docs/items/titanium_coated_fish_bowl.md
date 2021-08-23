@@ -9,7 +9,7 @@ Its in-game ID is `enva:titanium_coated_glass_bowl`
 ---
 ## Obtaining - Crafting
 
-To craft the titanium coated fish bowl, go to the [EnvironmentalArmor Discord server](https://discord.gg/MzKD2yq8N8) and type the command `e!recipe titanium_coated glass_bowl` in the bot commands channel after verifying.
+To craft the titanium coated fish bowl, go to the [EnvironmentalArmor Discord server](https://discord.gg/MzKD2yq8N8) and type the command `e!recipe titanium_coated_glass_bowl` in the bot commands channel after verifying.
 The titanium coated fish bowl requires a fish bowl and titanium ingots.
 
 ## Mechanics
@@ -24,7 +24,7 @@ The titanium coated fish bowl requires a fish bowl and titanium ingots.
 
 1. Players can't stack titanium coated fish bowls or titanium coated water fish bowls in their inventory.
 2. While equipped, the titanium coated water glass bowls prevent you from putting any type of helmet on.
-4. If the titanium coated water fish bowl is broken in the nether and you have no spares, good luck finding a water source.
+3. If the titanium coated water fish bowl is broken in the nether and you have no spares, good luck finding a water source.
 
 ## Related
 
